@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newton-School-Movie-Project/static/css/main.761cb284.css",
+    "main.js": "/Newton-School-Movie-Project/static/js/main.250d37b4.js",
+    "static/js/787.6ebe9dce.chunk.js": "/Newton-School-Movie-Project/static/js/787.6ebe9dce.chunk.js",
+    "index.html": "/Newton-School-Movie-Project/index.html",
+    "main.761cb284.css.map": "/Newton-School-Movie-Project/static/css/main.761cb284.css.map",
+    "main.250d37b4.js.map": "/Newton-School-Movie-Project/static/js/main.250d37b4.js.map",
+    "787.6ebe9dce.chunk.js.map": "/Newton-School-Movie-Project/static/js/787.6ebe9dce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761cb284.css",
+    "static/js/main.250d37b4.js"
+  ]
+}
